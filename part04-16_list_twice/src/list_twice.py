@@ -10,3 +10,6 @@ print("Bye!")
 
 
 D:\Antigravity\MOOC Python\week 4\tmcdata\mooc-programming-23\part04-16_list_twice\src\list_twice.py
+ 
+
+ help
