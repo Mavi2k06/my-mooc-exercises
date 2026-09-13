@@ -1,0 +1,16 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# TMC configuration and private logs
+.tmc/
+tmc/
+.tmcproject.json
+config.json
+
+# VS Code workplace system data
+.vscode/
+*.code-workspace
