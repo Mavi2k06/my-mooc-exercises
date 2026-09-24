@@ -1,6 +1,7 @@
 def all_the_longest(my_list):
   largest = my_list[0]
   number = []
+  dumber = 1
 
   for num in my_list:
     if len(num) > len(largest):
